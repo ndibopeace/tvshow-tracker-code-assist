@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Watchline" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#F0A66B</item>
+        <item name="android:statusBarColor">#101015</item>
+        <item name="android:navigationBarColor">#101015</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
